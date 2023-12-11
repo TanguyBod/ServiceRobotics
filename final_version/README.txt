@@ -1,1 +1,2 @@
-Final version of the ServiceRobotics robots
+Final version of the ServiceRobotics code.
+Group 2
